@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://images.pexels.com/photos/884788/pexels-photo-884788.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=1550);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    
+    text-align: center;
+    color: rgb(12, 10, 10);
+    font-size: 50px;
+}
+#count{
+    
+    font-size: 200px;
+    text-align: center;
+}
+.btn{
+    
+    display: flex;
+    justify-content: center;
+    
+    
+}
+#up{
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    margin-right: 20px;
+    
+}
+#down{
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 30px;
+    margin-left: 20px;
+}
+#up:hover{
+    cursor: pointer;
+    background-color:rgb(8, 21, 214);
+    color:rgb(240, 159, 10);
+}
+#down:hover{
+    cursor: pointer;
+    background-color:rgb(8, 21, 214);
+    color:rgb(240, 159, 10);
+}
